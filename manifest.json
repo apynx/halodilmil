@@ -1,0 +1,38 @@
+{
+  "name": "Halo Dilmil",
+  "short_name": "Halo Dilmil v1.0",
+  "start_url": "https://halodilmil.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#008a00",
+  "description": "Aplikasi Inovasi Halo Dilmil dari Pengadilan Militer III-12 Surabaya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s96/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s144/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s168/logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s192/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HOQ1d3AI8Rs/YEFhF8SQMeI/AAAAAAAAFhQ/jBgqs2ojrpcwKfV1QS78nP-BHqMI57fmwCLcBGAsYHQ/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
