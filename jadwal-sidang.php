@@ -16,4 +16,3 @@ $text1 = $second_step[0];
 //Tampilkan 
 echo $text1;
 ?>
-</table>
